@@ -1,0 +1,7 @@
+Boston College logo
+Source: https://www.boston.ac.uk/skin/logo.svg
+Downloaded 20 October 2026 from the official college website. SVG geometry and proportions used unchanged; CSS displays the monochrome black artwork in white for contrast on the dark background.
+
+Unreal Academic Partner footer designation
+Text link requested by site owner; no recreated partner badge used.
+Programme: https://www.unrealengine.com/en-US/training-academic-partners
